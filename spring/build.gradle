@@ -41,7 +41,7 @@ repositories {
 
 
 dependencies {
-	compile('org.springframework.boot:spring-boot-starter-security')
+	compile("org.springframework.boot:spring-boot-starter-web")
 	compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	compile("org.jetbrains.kotlin:kotlin-reflect")
 	compileOnly('org.projectlombok:lombok')
