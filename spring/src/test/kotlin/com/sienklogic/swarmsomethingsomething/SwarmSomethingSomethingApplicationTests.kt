@@ -11,6 +11,7 @@ class SwarmSomethingSomethingApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		print("woot!")
 	}
 
 }
