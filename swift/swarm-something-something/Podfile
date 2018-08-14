@@ -1,0 +1,4 @@
+use_modular_headers!
+target 'swarm-something-something'
+pod "StompClientLib"
+

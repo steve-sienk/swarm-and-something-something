@@ -1,0 +1,6 @@
+github "antitypical/Result"
+github "Quick/Quick"
+github "Quick/Nimble"
+github "daltoniam/Starscream" >= 3.0.2
+github "ShengHuaWu/StompClient"
+github "AliSoftware/OHHTTPStubs"
